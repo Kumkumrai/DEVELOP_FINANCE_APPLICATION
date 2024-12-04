@@ -1,7 +1,7 @@
-# tests/test_finance.py
 
 from typing import Any
 import pytest
+
 from app.finance import FinanceTracker
 
 @pytest.fixture
